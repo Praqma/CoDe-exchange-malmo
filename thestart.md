@@ -1,5 +1,15 @@
 ## Manifest
 
+### Notes 2020-04-09
+
+- Naming - we don't want DevOps and CoDe is confusing. CI/CD or Continuous Delivery both could work.
+- Online - no, maybe would be a good thing if we already had this started before covid-19. Maybe this will happen organically if needed. But this isn't a goal in itself.
+
+- Start working with Jenkins+Gerrit+Repo tool
+  - Can we make a good open source usability thing (considering manifest)?
+  - Can we replace one tool at time with other making it more generic?
+  - Can we replace Repo tool with Git submodules?
+
 ### This repo
 
 - We develop stuff here, if something deserves a separate repo, we move it to a new one.
@@ -27,7 +37,7 @@
 
 ### Ideas
 
-- Jenkins and Gerrit
+- Jenkins and Gerrit and Repo tool
   - J + Luthander + M
   - Bobby?
 - How and with what we can replace Jenkins?
