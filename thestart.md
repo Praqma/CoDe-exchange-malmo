@@ -1,5 +1,41 @@
 ## Manifest
 
+### Notes 2020-04-16
+
+- recreate this repo to CDE Malmö, call it something else, CDEwow/lol
+  - this should be generated as gh-pages.
+  - domain name
+- create Gerrit repo in CDEM (find if there are configuration for Gerrit)
+- jenkins, clean up and push to CDEM
+
+#### Way of working
+
+*on a normal CDEM day*
+
+beer, beverages, crisps, snacks
+  <- requirement: a filled cabinet
+
+chit chat
+
+max 6 people (E+A+another+3)
+
+topic in general is already decided, so maybe some kind of presenting it (kickstarting the meeting)
+  <- requirement: one of us need to be prepared to take this (5-10 min)
+
+brainstorm what problem we want to solve
+
+figure out how to solve it
+  <- requirement: whatever we do, it's going to be open
+
+maybe we work on something that has a repo, then we contribute to it.
+  <- requirement: Fork to CDEM, adding the participants as users to the repo
+
+we will figure out where to keep the work
+  if it becomes a thing we create repos in CDEM, adding the participants as users to the repo
+
+(First one with super-friendly peeps)
+
+
 ### Notes 2020-04-09
 
 - Naming - we don't want DevOps and CoDe is confusing. CI/CD or Continuous Delivery both could work.
@@ -19,7 +55,7 @@
 ### Preparations
 
 - Vote on stuff in advance
-- A new slack
+- A new slack (CDE-Malmö)
 - Start small and grow organically
   - start with a few people we know will participate and like it
   - make sure that we actually can work with and help the person(s) we start with
