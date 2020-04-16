@@ -20,3 +20,11 @@ sudo usermod -aG docker $USER
 exit
 sudo -iu ubuntu
 ```
+
+## How to setup Gerrit
+
+We are using https://github.com/GerritCodeReview/docker-gerrit.
+
+- `sudo -iu ubuntu`
+- Create `docker-compose.yml` file, change external port from 8080 to 80.
+- `docker-compose up -d`
